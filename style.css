@@ -34,6 +34,12 @@ background-image: linear-gradient(to right top, #f13333, #bed925, #1831c1, #f133
 	background-image: linear-gradient(to left bottom, #f13333, #bed925, #1831c1, #f13333);
 }
 
+#send_button{
+	height: 40px;
+background-image: linear-gradient(to right bottom, #f13333, #bed925, #1831c1, #f13333);
+color:white;
+}
+
 .room_name
 {
 	cursor: pointer;
